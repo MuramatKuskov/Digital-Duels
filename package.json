@@ -1,0 +1,22 @@
+{
+  "name": "digital-duels",
+  "version": "1.0.0",
+  "description": "Web platform for competitive gaming",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuramatKuskov/Digital-Duels.git"
+  },
+  "keywords": [
+    "games"
+  ],
+  "author": "Kuskov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuramatKuskov/Digital-Duels/issues"
+  },
+  "homepage": "https://github.com/MuramatKuskov/Digital-Duels#readme"
+}
